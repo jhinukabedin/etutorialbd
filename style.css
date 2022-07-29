@@ -35,6 +35,9 @@ section.ptb{
     .card .course-img{
         width:100%;
     }
+    .carousel-caption h2{
+        
+    }
 }
 
 @media (min-width: 576px) {
