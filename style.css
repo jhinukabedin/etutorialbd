@@ -21,6 +21,12 @@ section.ptb{
     z-index:99;
 }
 
+.my-bg{
+    section.moment-area.ptb {
+        background-color: #4e4e4e0f;
+    }
+}
+
 
 /* // X-Small devices (portrait phones, less than 576px)
 // No media query for `xs` since this is the default in Bootstrap */
